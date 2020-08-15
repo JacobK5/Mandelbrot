@@ -47,7 +47,7 @@ public class Mandelbrot extends JPanel {
 	}
 
 	public static void main(String[] args) {
-		Mandlebrot m = new Mandlebrot();
+		Mandelbrot m = new Mandelbrot();
 	}
 
 	public void makeImage() {
